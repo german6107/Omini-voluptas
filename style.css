@@ -1,0 +1,101 @@
+body,html{position: relative;
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    
+}    
+.container__header{position: relative;
+width: 100%;
+background: linear-gradient(224.72deg, #3023AE -1%, #C86DD7 100.5%);
+}
+.header__section{margin: 0 auto;
+    height: 800px;
+    width: 1440px;} 
+.header__menu{
+position: relative;
+display: flex;
+justify-content: space-around;
+align-items: flex-start;
+
+}
+.menu_name{font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;}
+.menu__about li{position: relative;
+    display: inline;
+text-decoration: none;
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+.menu__about a{
+    position: relative;
+    text-decoration: none;
+    background-color: unset;
+    color: #FFFFFF;
+    margin-left: 40px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    top: 40px;
+}
+.menu__button button{position: relative;
+    border-radius: 30%;
+    font-family: Source Sans Pro;
+    color: #FFFFFF;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+background-image: none;
+background: transparent;
+background-color: transparent;
+border: 1px solid rgba(255, 255, 255, 0.295063);
+box-sizing: border-box;
+border-radius: 24px;
+height: 48px;
+width: 170px;
+top: 30px;}
+.header__content{position: relative;
+display: flex;
+width: 1200px;
+left: 90px;}
+.body__text{width: 370px;
+    color: #FFFFFF;
+}
+.text_title{
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 72px;
+color: #FFFFFF;
+}
+.text_text{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;}
+.text_button button{
+    position: relative;
+    background: #FFC300;
+    border-radius: 24px;
+    box-sizing: border-box;
+    border: 1px solid #FFC300;
+    height: 48px;
+    width: 170px;
+    top: 30px;
+    text-align: center;
+    color: #FFFFFF;}
+.body__image{margin-left: 120px;}
+.header__foot{position: absolute;
+display: inline;
+margin-top: 570px;
+margin-left: 1050px;}
+
